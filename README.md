@@ -3,7 +3,7 @@
 ### Created my database and added products
 
 ![Image of MySQL]
-(https://github.com/rixgithub/Bamazon/blob/master/images/Screen%20Shot%202017-04-22%20at%204.24.44%20PM.png)
+(Bamazon/images/Screen Shot 2017-04-22 at 4.24.44 PM.png)
 
 ### Run program and it lists the products for sale and then prompts user which product they would like to purchase
 
