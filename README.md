@@ -1,6 +1,10 @@
-# Bamazon
+# rixStore
 
-### Created my database and added products
+### Overview
+
+Created an Amazon-like storefront with MySQL. The app takes in orders from customers and depletes stock from the store's inventory.
+
+Uses the MySQL and Prompt npm packages for data input and storage.
 
 ![Image of MySQL](https://github.com/rixgithub/Bamazon/blob/master/images/Screen%20Shot%202017-04-22%20at%204.24.44%20PM.png)
 

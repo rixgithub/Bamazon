@@ -1,14 +1,14 @@
 {
-  "name": "bamazon",
+  "name": "rixStore",
   "version": "1.0.0",
   "description": "amazon killer",
-  "main": "bamazonCustomer.js",
+  "main": "rixStoreCustomer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rixgithub/Bamazon.git"
+    "url": "git+https://github.com/rixgithub/rixStore.git"
   },
   "keywords": [
     "amazon",
@@ -19,9 +19,9 @@
   "author": "RLG",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rixgithub/Bamazon/issues"
+    "url": "https://github.com/rixgithub/rixStore/issues"
   },
-  "homepage": "https://github.com/rixgithub/Bamazon#readme",
+  "homepage": "https://github.com/rixgithub/rixStore#readme",
   "dependencies": {
     "console.table": "^0.8.0",
     "inquirer": "^3.0.6",
